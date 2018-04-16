@@ -1,0 +1,1 @@
+E:\ServiceFabricProject\SimpleStoreApplication\SimpleStoreClient\obj\x64\Debug\SimpleStoreClient.csprojResolveAssemblyReference.cache

@@ -1,0 +1,1 @@
+E:\ServiceFabricProject\SimpleStoreApplication\ShoppingCartService\obj\x64\Debug\ShoppingCartService.csprojResolveAssemblyReference.cache
